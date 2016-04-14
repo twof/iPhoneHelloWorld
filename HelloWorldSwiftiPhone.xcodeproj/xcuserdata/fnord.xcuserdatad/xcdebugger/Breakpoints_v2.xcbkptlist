@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HelloWorldSwiftiPhone/ViewController.swift"
+            timestampString = "481432061.408605"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorldSwiftiPhone.ViewController.nameLable.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "HelloWorldSwiftiPhone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnord/Documents/Swift/HelloWorldSwiftiPhone/HelloWorldSwiftiPhone/ViewController.swift"
+                  timestampString = "481432064.2124"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorldSwiftiPhone.ViewController.nameLable.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "HelloWorldSwiftiPhone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnord/Documents/Swift/HelloWorldSwiftiPhone/HelloWorldSwiftiPhone/ViewController.swift"
+                  timestampString = "481432064.213461"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorldSwiftiPhone.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; HelloWorldSwiftiPhone.ViewController"
+                  moduleName = "HelloWorldSwiftiPhone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnord/Documents/Swift/HelloWorldSwiftiPhone/HelloWorldSwiftiPhone/ViewController.swift"
+                  timestampString = "481432064.213581"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorldSwiftiPhone.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HelloWorldSwiftiPhone.ViewController&gt;"
+                  moduleName = "HelloWorldSwiftiPhone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnord/Documents/Swift/HelloWorldSwiftiPhone/HelloWorldSwiftiPhone/ViewController.swift"
+                  timestampString = "481432064.213671"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
